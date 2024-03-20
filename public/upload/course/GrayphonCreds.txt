@@ -1,0 +1,20 @@
+
+
+Grayphon:-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Content - 		https://docs.google.com/document/d/1C4wgcoq-ROMZNQTPhEYteW3KqHlKqzEov-GEL5JAAMk/edit
+
+
+Dev link -		 https://ikokasdev.com/grayphon/
+
+ 
+Design link : 	https://xd.adobe.com/view/fa4c7513-7431-48bf-bb69-14a23633c2ec-af1f/
+
+ 
+Admin : 		https://ikokasdev.com/grayphon/wp-login.php?redirect_to=https%3A%2F%2Fikokasdev.com%2Fgrayphon%2Fwp-admin%2F&reauth=1
+admin user:	 realty
+admin password: 	 realty#123      
+
+

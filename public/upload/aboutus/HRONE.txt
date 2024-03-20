@@ -1,0 +1,45 @@
+Company -     		  Vector3 Digital Technologies Pvt. Ltd. 
+Company code-          	  ikokas
+HRone Password-       	 Gout$9555
+
+Employee Code-      		  VEA0066
+Email->                       		 vikrant.tyagi@vector3.digital
+Password-                 		 We!c@me#432!
+URL-                         		  https://app.hrone.cloud/app/inbox
+
+
+ =>   BRD(Business Requirement doc)-> Goes to client-> Then SOW(Scope of work) is created
+->    Then User Story-> Then BA creates Use Cases -> Then Test cases and testing goes on 
+
+
+
+REGULARIZATION:-
+----------------------------------------------------------------------------------------------
+-PUT Reason IN COMMENT 
+-If punchout missed then choose forgot out radio button 
+-If punchin missed then choose forgot in radio button 
+-Fill time as complete 9 hours (end hours as 19 because 19 is 7pm and also end minutes as 10 or 20 or 30 means
+ more than 1 minutes)
+
+ 
+
+TASK MANAGER-> TESTER ACCOUNT -	 iPhone X(Hemant Chauhan)
+--------------------------------------------------------------------------------------------------------
+
+User can login on outlook.office365.com by using password 
+ 
+Vect@r#2254 (new password) 
+
+Please request the user to change the password after first login .
+tester@ikokas.com
+IkokasTest@2023(old password)   
+----------------------------------------------------------------------------------------------------------
+
+
+
+
+      
+
+
+
+
